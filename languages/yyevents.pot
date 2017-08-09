@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yyevents\n"
+"POT-Creation-Date: 2014-02-15 15:46+0900\n"
+"PO-Revision-Date: 2014-02-15 15:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: YYengine <yamabata@yyengine.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom/meta.php:2
+msgid "Event Sub Title"
+msgstr ""
+
+#: ../custom/meta.php:8
+msgid "Event Description"
+msgstr ""
+
+#: ../custom/meta.php:14 ../yy-events.php:214
+msgid "Place"
+msgstr ""
+
+#: ../custom/meta.php:20
+msgid "Date"
+msgstr ""
+
+#: ../custom/meta.php:26 ../yy-events.php:215
+msgid "Open/Start"
+msgstr ""
+
+#: ../custom/meta.php:32 ../yy-events.php:216
+msgid "Price"
+msgstr ""
+
+#: ../custom/meta.php:38 ../yy-events.php:217
+msgid "Actors"
+msgstr ""
+
+#: ../custom/meta.php:44 ../yy-events.php:218
+msgid "Contact"
+msgstr ""
+
+#: ../custom/meta.php:50 ../yy-events.php:219
+msgid "Infomation"
+msgstr ""
+
+#: ../custom/meta.php:56
+msgid "Event Image"
+msgstr ""
+
+#: ../custom/meta.php:66
+msgid "upload"
+msgstr ""
+
+#: ../yy-events.php:40
+msgid "YYEvents"
+msgstr "YYEvents"
+
+#: ../yy-events.php:263
+msgid "Event List"
+msgstr ""
+
+#: ../yy-events.php:269
+msgid "Title:"
+msgstr ""
+
+#: ../yy-events.php:270
+msgid "num:"
+msgstr ""
